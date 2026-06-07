@@ -3,6 +3,9 @@
     "version": ">= 16.0.0",
     "appVersionSource": "local"
   },
+  "experimental": {
+    "npmClient": "npm"
+  },
   "build": {
     "development": {
       "developmentClient": true,
