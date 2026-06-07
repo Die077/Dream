@@ -55,6 +55,6 @@
     "expo-clipboard": "^8.0.8"
   },
   "resolutions": {
-    "expo-server": "1.0.6"
+    "expo-server": false
   }
 }
