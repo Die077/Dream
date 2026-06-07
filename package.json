@@ -53,5 +53,8 @@
   },
   "dependencies": {
     "expo-clipboard": "^8.0.8"
-  }
+  },
+"resolutions": {
+  "expo-server": "1.0.6"
+}
 }
